@@ -1,9 +1,9 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+
 
 
 # BMI Calculator 💪
 
-## Our Goal
+## My Goal
 
 The objective of this app is learn UI. 
 

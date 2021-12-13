@@ -23,6 +23,7 @@ class _InputPageState extends State<InputPage> {
   int height = 180;
   int weight = 60;
   int age = 19;
+  static const String appBarName = "BMI CALCULATOR";
   // Color maleCardColor = Color(inActiveColor);
   // Color femaleCardColor = Color(inActiveColor);
   //
@@ -50,7 +51,7 @@ class _InputPageState extends State<InputPage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Color(0xFF0A0E21),
-        title: Text('BMI CALCULATOR'),
+        title: Text(appBarName),
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.stretch,
